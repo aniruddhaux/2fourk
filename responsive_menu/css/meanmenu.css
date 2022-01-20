@@ -100,7 +100,7 @@ To be used with jquery.meanmenu.js by Chris Wharton (http://www.meanthemes.com/p
 /*.current-menu-item > a, #header .navMenu ul li:hover a,  #header .navMenu ul li a.current {*/
 #header .navMenu ul li:hover a,
 #header .navMenu ul li a.current {
-    color: #3c69ac !important;
+    color: #ed1f24 !important;
 }
 
 #header .navMenu ul li:hover a,

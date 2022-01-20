@@ -1339,12 +1339,19 @@
 }	
 .review .review_details ul li:nth-child(2) {
 	margin-top: 40px;
+	display: none;
 }	
 .review .review_details ul li:nth-child(3) {
 	margin-top: 40px;
+	display: none;
 }	
 .review .review_details ul li:nth-child(4) {
 	margin-top: 40px;
+	display: none;
+}	
+	
+.review .review_details_mobile{
+	display: block;
 }	
 /***************************
 	review end 
